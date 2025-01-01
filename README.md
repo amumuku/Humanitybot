@@ -14,7 +14,7 @@
 首先，使用 Git 将此存储库克隆到本地计算机：
 
 ```bash
-git clone https://github.com/Gzgod/Humanitybot.git
+git clone https://github.com/amumuku/Humanitybot.git
 ```
 
 ### 2. 将目录更改为克隆文件夹
